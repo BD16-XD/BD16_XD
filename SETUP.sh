@@ -1,3 +1,4 @@
+clear
 
 toilet -f term -F gay "[ tsu ENTER ] AND [ bash X-4 ENTER ]"
 sleep 3
