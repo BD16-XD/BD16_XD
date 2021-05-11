@@ -1,3 +1,15 @@
+﻿require "import"
+import "android.app.*"
+import "android.os.*"
+import "android.widget.*"
+import "android.view.*"
+import "android.net.*"
+import "android.content.*"
+import "android.graphics.*"
+import "android.graphics.drawable.*"
+import "android.provider.*"
+import "com.downloader.*"
+
 URLserver="https://deadalose.000webhostapp.com/"
 
 function LoginLY()
