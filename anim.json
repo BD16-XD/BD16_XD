@@ -9,7 +9,7 @@
       "animations": {
         "idle": { "Animation1": 3489171152, "Animation2": 3489171152 },
         "walk": { "WalkAnim": 0 },
-        "run": { "RunAnim": 0 },
+        "run": { "RunAnim": 126853923835932 },
         "jump": { "JumpAnim": 0 },
         "fall": { "FallAnim": 0 },
         "climb": { "ClimbAnim": 0 },
