@@ -1,42 +1,20 @@
 {
   "keyword": null,
-  "totalItems": 4159,
-  "lastUpdate": "2026-09-23T00:02:58.107Z",
+  "totalItems": 1,
+  "lastUpdate": "2026-09-23T00:00:00.000Z",
   "data": [
     {
-      "id": 6968492533072,
-      "name": "Kompeten",
-      "bundledItems": {
-        "1": [
-          79638430446468
-        ]
-      }
-    },
-{
-      "id": 182639456073104,
-      "name": "Spooky Marionette Puppet Doll Animation Pack",
-      "bundledItems": {
-        "1": [
-          134950373149381
-        ],
-        "2": [
-          101235226960577
-        ],
-        "3": [
-          116244524157299
-        ],
-        "4": [
-          103523389961633
-        ],
-        "5": [
-          95210458703000
-        ],
-        "6": [
-          89238132836352
-        ],
-        "7": [
-          71900534330508
-        ]
+      "id": 130315691170614,
+      "name": "Zombie",
+      "animations": {
+        "idle": { "Animation1": 3489171152, "Animation2": 3489171152 },
+        "walk": { "WalkAnim": 0 },
+        "run": { "RunAnim": 0 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
       }
     }
   ]
