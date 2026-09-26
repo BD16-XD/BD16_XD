@@ -1,21 +1,21 @@
 {
-  "keyword": null,
-  "totalItems": 1,
-  "lastUpdate": "2026-09-23T00:00:00.000Z",
-  "data": [
-    {
-      "id": 130315691170614,
-      "name": "Zombie",
-      "animations": {
-        "idle": { "Animation1": 3489171152, "Animation2": 3489171152 },
-        "walk": { "WalkAnim": 0 },
-        "run": { "RunAnim": 126853923835932 },
-        "jump": { "JumpAnim": 0 },
-        "fall": { "FallAnim": 0 },
-        "climb": { "ClimbAnim": 0 },
-        "swimidle": { "SwimIdle": 0 },
-        "swim": { "Swim": 0 }
-      }
-    }
-  ]
+  "keyword": null,
+  "totalItems": 1,
+  "lastUpdate": "2026-09-23T00:00:00.000Z",
+  "data": [
+    {
+      "id": 130315691170614,
+      "name": "Zombie",
+      "animations": {
+        "idle": { "Animation1": 3489171152, "Animation2": 3489171152 },
+        "walk": { "WalkAnim": 0 },
+        "run": { "RunAnim": 0 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
+      }
+    }
+  ]
 }
