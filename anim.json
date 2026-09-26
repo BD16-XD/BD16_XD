@@ -18,10 +18,10 @@
       }
     },
     {
-      "id": 226897222628299,
-      "name": "chill boy",
+      "id": 155758204354290,
+      "name": "Realistis Pria",
       "animations": {
-        "idle": { "Animation1": 79638430446468, "Animation2": 0 },
+        "idle": { "Animation1": 128667162266929, "Animation2": 124366149420254 },
         "walk": { "WalkAnim": 0 },
         "run": { "RunAnim": 117411622009281 },
         "jump": { "JumpAnim": 0 },
