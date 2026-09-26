@@ -8,7 +8,7 @@
       "name": "Zombie",
       "animations": {
         "idle": { "Animation1": 3489171152, "Animation2": 3489171152 },
-        "walk": { "WalkAnim": 0 },
+        "walk": { "WalkAnim": 129637720447430 },
         "run": { "RunAnim": 0 },
         "jump": { "JumpAnim": 0 },
         "fall": { "FallAnim": 0 },
@@ -35,7 +35,7 @@
       "id": 111318635278464,
       "name": "spider",
       "animations": {
-        "idle": { "Animation1": 87722152938224, "Animation2": 121619775156126 },
+        "idle": { "Animation1": 112258724299809, "Animation2": 112258724299809 },
         "walk": { "WalkAnim": 0 },
         "run": { "RunAnim": 0 },
         "jump": { "JumpAnim": 0 },
