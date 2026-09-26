@@ -21,7 +21,7 @@
       "id": 226897222628299,
       "name": "chill boy",
       "animations": {
-        "idle": { "Animation1": 106185312673337, "Animation2": },
+        "idle": { "Animation1": 106185312673337, "Animation2": 0 },
         "walk": { "WalkAnim": 0 },
         "run": { "RunAnim": 117411622009281 },
         "jump": { "JumpAnim": 0 },
