@@ -22,7 +22,7 @@
       "name": "Chill Boy",
       "animations": {
         "idle": { "Animation1": 106185312673337, "Animation2": 106185312673337 },
-        "walk": { "WalkAnim": 0 },
+        "walk": { "WalkAnim": 89374309350091 },
         "run": { "RunAnim": 0 },
         "jump": { "JumpAnim": 0 },
         "fall": { "FallAnim": 0 },
