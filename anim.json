@@ -21,7 +21,75 @@
       "id": 226897222628299,
       "name": "chill boy",
       "animations": {
-        "idle": { "Animation1": 106185312673337, "Animation2": 0 },
+        "idle": { "Animation1": {
+  "keyword": null,
+  "totalItems": 2,
+  "lastUpdate": "2026-09-23T00:00:00.000Z",
+  "data": [
+    {
+      "id": 130315691170614,
+      "name": "Zombie",
+      "animations": {
+        "idle": { "Animation1": 3489171152, "Animation2": 3489171152 },
+        "walk": { "WalkAnim": 0 },
+        "run": { "RunAnim": 126853923835932 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
+      }
+    },
+    {
+      "id": 226897222628299,
+      "name": "chill boy",
+      "animations": {
+        "idle": { "Animation1": 106185312673337, "Animation2": {
+  "keyword": null,
+  "totalItems": 2,
+  "lastUpdate": "2026-09-23T00:00:00.000Z",
+  "data": [
+    {
+      "id": 130315691170614,
+      "name": "Zombie",
+      "animations": {
+        "idle": { "Animation1": 3489171152, "Animation2": 3489171152 },
+        "walk": { "WalkAnim": 0 },
+        "run": { "RunAnim": 126853923835932 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
+      }
+    },
+    {
+      "id": 226897222628299,
+      "name": "chill boy",
+      "animations": {
+        "idle": { "Animation1": 106185312673337, "Animation2": 106185312673337 },
+        "walk": { "WalkAnim": 0 },
+        "run": { "RunAnim": 117411622009281 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
+      }
+    }
+  ]
+} },
+        "walk": { "WalkAnim": 0 },
+        "run": { "RunAnim": 117411622009281 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
+      }
+    }
+  ]
+}, "Animation2": 0 },
         "walk": { "WalkAnim": 0 },
         "run": { "RunAnim": 117411622009281 },
         "jump": { "JumpAnim": 0 },
