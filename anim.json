@@ -36,7 +36,7 @@
       "name": "spider",
       "animations": {
         "idle": { "Animation1": 87722152938224, "Animation2": 121619775156126 },
-        "walk": { "WalkAnim": },
+        "walk": { "WalkAnim": 0 },
         "run": { "RunAnim": 0 },
         "jump": { "JumpAnim": 0 },
         "fall": { "FallAnim": 0 },
