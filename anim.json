@@ -7,7 +7,7 @@
       "id": 130315691170614,
       "name": "Zombie",
       "animations": {
-        "idle": { "Animation1": 128667162266929, "Animation2": 124366149420254 },
+        "idle": { "Animation1": 106185312673337, "Animation2": 0 },
         "walk": { "WalkAnim": 0 },
         "run": { "RunAnim": 126853923835932 },
         "jump": { "JumpAnim": 0 },
