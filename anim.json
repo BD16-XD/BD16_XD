@@ -1,6 +1,6 @@
 {
   "keyword": null,
-  "totalItems": 1,
+  "totalItems": 3,
   "lastUpdate": "2026-09-23T00:00:00.000Z",
   "data": [
     {
@@ -9,6 +9,34 @@
       "animations": {
         "idle": { "Animation1": 3489171152, "Animation2": 3489171152 },
         "walk": { "WalkAnim": 0 },
+        "run": { "RunAnim": 0 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
+      }
+    },
+    {
+      "id": 226897222628299,
+      "name": "Chill Boy",
+      "animations": {
+        "idle": { "Animation1": 106185312673337, "Animation2": 106185312673337 },
+        "walk": { "WalkAnim": 0 },
+        "run": { "RunAnim": 0 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
+      }
+    },
+    {
+      "id": 132234567890456,
+      "name": "Ghost",
+      "animations": {
+        "idle": { "Animation1": 616006778, "Animation2": 616008087 },
+        "walk": { "WalkAnim": 616013216 },
         "run": { "RunAnim": 0 },
         "jump": { "JumpAnim": 0 },
         "fall": { "FallAnim": 0 },
