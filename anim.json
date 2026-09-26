@@ -21,7 +21,7 @@
       "id": 155758204354290,
       "name": "Realistis Pria",
       "animations": {
-        "idle": { "Animation1": 128667162266929, "Animation2": 124366149420254 },
+        "idle": { "Animation1": 3489171152, "Animation2": 3489171152 },
         "walk": { "WalkAnim": 0 },
         "run": { "RunAnim": 117411622009281 },
         "jump": { "JumpAnim": 0 },
