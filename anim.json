@@ -43,7 +43,8 @@
         "climb": { "ClimbAnim": 0 },
         "swimidle": { "SwimIdle": 0 },
         "swim": { "Swim": 0 }
-      },
+      }
+    },
        {
       "id": 63,
       "name": "mage",
