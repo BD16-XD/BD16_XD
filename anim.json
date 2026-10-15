@@ -43,6 +43,19 @@
         "climb": { "ClimbAnim": 0 },
         "swimidle": { "SwimIdle": 0 },
         "swim": { "Swim": 0 }
+      },
+       {
+      "id": 63,
+      "name": "mage",
+      "animations": {
+        "idle": { "Animation1": 10921144709, "Animation2": 10921145797 },
+        "walk": { "WalkAnim": 0 },
+        "run": { "RunAnim": 0 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
       }
     }
   ]
