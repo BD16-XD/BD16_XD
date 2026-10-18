@@ -45,6 +45,20 @@
         "swim": { "Swim": 0 }
       }
     },
+      {
+      "id": 190021249320677,
+      "name": "aura headles",
+      "animations": {
+        "idle": { "Animation1": 110613347515968, "Animation2": 95940647344425 },
+        "walk": { "WalkAnim": 108323090087021 },
+        "run": { "RunAnim": 0 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
+      }
+    },
        {
       "id": 63,
       "name": "mage",
