@@ -59,6 +59,20 @@
         "swim": { "Swim": 0 }
       }
     },
+    {
+      "id": 207550705570518,
+      "name": "Halloween-Headless-Pumpkin-King",
+      "animations": {
+        "idle": { "Animation1": 85118072032337, "Animation2": 85118072032337 },
+        "walk": { "WalkAnim": 132828912659274 },
+        "run": { "RunAnim": 90794876531150 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
+      }
+    },
        {
       "id": 63,
       "name": "mage",
