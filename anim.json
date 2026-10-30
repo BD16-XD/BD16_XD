@@ -60,6 +60,20 @@
       }
     },
     {
+      "id": 43226236383957,
+      "name": "Cute-Wave-Animation-Pack",
+      "animations": {
+        "idle": { "Animation1": 138772183299685, "Animation2": 132471610123742 },
+        "walk": { "WalkAnim": 104224852261651 },
+        "run": { "RunAnim": 132041825611003 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
+      }
+    }, 
+    {
       "id": 207550705570518,
       "name": "Halloween-Headless-Pumpkin-King",
       "animations": {
