@@ -87,6 +87,20 @@
         "swim": { "Swim": 0 }
       }
     },
+    {
+      "id": 44134738352110,
+      "name": "Bycle",
+      "animations": {
+        "idle": { "Animation1": 126390120399173, "Animation2": 136791517336633 },
+        "walk": { "WalkAnim": 98707881660541 },
+        "run": { "RunAnim": 102775737211919 },
+        "jump": { "JumpAnim": 0 },
+        "fall": { "FallAnim": 0 },
+        "climb": { "ClimbAnim": 0 },
+        "swimidle": { "SwimIdle": 0 },
+        "swim": { "Swim": 0 }
+      }
+    },
        {
       "id": 63,
       "name": "mage",
