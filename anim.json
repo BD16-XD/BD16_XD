@@ -46,11 +46,11 @@
       }
     },
       {
-      "id": 190021249320677,
-      "name": "aura headles",
+      "id": 122746952391276,
+      "name": "Cute kawaii",
       "animations": {
-        "idle": { "Animation1": 110613347515968, "Animation2": 95940647344425 },
-        "walk": { "WalkAnim": 108323090087021 },
+        "idle": { "Animation1": 72311682331639, "Animation2": 117622707854191 },
+        "walk": { "WalkAnim": 91054708744952 },
         "run": { "RunAnim": 0 },
         "jump": { "JumpAnim": 0 },
         "fall": { "FallAnim": 0 },
@@ -74,10 +74,10 @@
       }
     }, 
     {
-      "id": 155758204354290,
-      "name": "Pria realistis",
+      "id": 23288783307950,
+      "name": "Dizzy",
       "animations": {
-        "idle": { "Animation1": 128667162266929, "Animation2": 124366149420254 },
+        "idle": { "Animation1": 132806359718468, "Animation2": 103572794348956 },
         "walk": { "WalkAnim": 71715888050370 },
         "run": { "RunAnim": 125200286119976 },
         "jump": { "JumpAnim": 0 },
